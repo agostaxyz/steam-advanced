@@ -1,0 +1,18 @@
+{
+    "manifest_version": 2,
+    "name": "Steam Advanced",
+    "version": "0.1",
+  
+    "description": "Adds Open In Steam, SteamDB and ProtonDB buttons to the Steam Website.",
+  
+    "icons": {
+      "48": "assets/steam.png"
+    },
+  
+    "content_scripts": [
+      {
+        "matches": ["*://*.steampowered.com/app/*"],
+        "js": ["steamAdvanced.js"]
+      }
+    ]
+  }
