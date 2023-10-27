@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "name": "Steam Pixel",
-    "version": "0.3",
+    "version": "0.3.1",
   
     "description": "Quicly access the Steam App, SteamDB, ProtonDB or Steam Card Exchange from the game page.",
   

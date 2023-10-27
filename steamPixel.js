@@ -22,7 +22,7 @@ function displayBlock() {
     
     var images = document.querySelectorAll(".steam_advanced_tab a img");
     for (var i = 0; i < images.length; i++) {
-        images[i].style.width = "64px";
+        images[i].style.width = "48px";
         images[i].style.margin = "0px 10px";
     }
 
