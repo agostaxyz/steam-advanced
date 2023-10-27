@@ -1,9 +1,9 @@
 {
     "manifest_version": 2,
     "name": "Steam Pixel",
-    "version": "0.2",
+    "version": "0.3",
   
-    "description": "Adds Open In Steam, SteamDB and ProtonDB buttons to the Steam Website.",
+    "description": "Quicly access the Steam App, SteamDB, ProtonDB or Steam Card Exchange from the game page.",
   
     "icons": {
       "48": "assets/steam-48.png"
